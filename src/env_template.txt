@@ -1,0 +1,5 @@
+ID=put_app_id_here
+SECRET=put_app_secret_here
+ACCOUNT_PASSWORD=put_password_here
+ACCOUNT_USERNAME=put_username_here
+DISCORD=put_discord_token_here
